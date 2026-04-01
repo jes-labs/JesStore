@@ -1,5 +1,3 @@
-# JesStore
-JesStore is a modern, Web3-native store management system built for African SMEs.
 # JesStore - Web3 Store Management Platform
 
 JesStore is a modern, Web3-native store management system built for African SMEs. It combines traditional POS functionality with blockchain-based payments, providing a seamless, affordable way for small business owners to manage inventory, process sales, and accept stablecoin payments (USDC/USDT) from any EVM-compatible chain.
